@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eax-testai-mcp-server-badge.png)](https://mseep.ai/app/eax-testai-mcp-server)
+
 # MCP Gherkin Server
 
 This project is an MCP server that generates Gherkin files. It provides an interface for creating and saving Gherkin syntax based on user-defined data.
